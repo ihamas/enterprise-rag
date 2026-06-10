@@ -62,4 +62,4 @@ TAVILY_API_KEY=your_key
 
 ## Live Demo
 
-Coming soon
+https://enterprise-rag-production-fb2e.up.railway.app/docs
